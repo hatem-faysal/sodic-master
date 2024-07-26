@@ -1,0 +1,16 @@
+https://imagine.sodic.com/admin
+email:admin@gmail.com
+passworld:123456789
+
+
+URL: https://138-68-164-184.cprapid.com:2083/logout/?locale=en
+User Name:  sodicimagine
+Password:  sdaAFcs201$#fds
+
+
+
+dashboard:http://127.0.0.1:8000/en/admin/login
+username:admin@gmail.com
+passwolrd:123456789
+
+ 
